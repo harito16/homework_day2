@@ -7,7 +7,7 @@ git add .
 git commit -m ""
 
 4. What command do you use to get updates from the class repository?
-git status
+git pull upstream master
 
 5. What command do you use to push your work to your fork of the class repository?
 git push master origin
